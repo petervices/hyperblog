@@ -9,13 +9,33 @@ body
    padding: 0;
 }
 
+# cabecera
+{
+   background: #33A;
+   box-shadow: 0px 2px 20px 0px rgba(0,0,0,5);
+   color: white;
+   font-weight: bold;
+   margin: 0;
+   padding: 0.5em;
+
+}
+
+#cabecera #taglibe
+{
+   padding: 0.5em;
+   font-weight: normal;
+   font-size: 0,8em ;
+
+}
+
+
 # container
 
 { 
   width: 70%;
   padding: 1em;
   text-align:left;
-  border:1px solid #000;
+  border:1px solid #DDD;
   margin: 0 auto;
   
 }
@@ -24,4 +44,12 @@ body
 
 {
   font-size: 20px
+}
+
+#post
+
+{
+
+
+
 }
